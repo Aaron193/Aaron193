@@ -3,8 +3,7 @@
 I'm a CSE major concentrating in cybersecurity with a minor in mathematics.  
 I’m interested in systems programming, multiplayer game development, compilers, and full-stack engineering.
 
-### Portfolio
-**[aaron193.github.io/portfolio](https://aaron193.github.io/portfolio/)**
+**Portfolio:** https://aaron193.github.io/portfolio/
 
 ### What I'm Working On
 - **[huskyloop.com](https://huskyloop.com):** student marketplace platform  
