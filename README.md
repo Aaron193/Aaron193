@@ -1,17 +1,20 @@
-## Hi there 👋
-One day, I'll get around to writing something here...
+# 👋 Hello, I'm Aaron
 
-<!--
-**Aaron193/Aaron193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE major concentrating in cybersecurity with a minor in mathematics.  
+I’m interested in systems programming, multiplayer game development, compilers, and full-stack engineering.
 
-Here are some ideas to get you started:
+### Portfolio
+**[aaron193.github.io/portfolio](https://aaron193.github.io/portfolio/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- **[huskyloop.com](https://huskyloop.com):** student marketplace platform  
+- **C++ multiplayer game:** [github.com/Aaron193/cpp-server](https://github.com/Aaron193/cpp-server)
+
+**Contact:** aaron.mark@uconn.edu
+
+---
+
+### Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,ts,js,php,python,html,css,bootstrap,nodejs,laravel,vue,mysql,postgresql,mongodb,linux,git,docker,jest" />
+</p>
