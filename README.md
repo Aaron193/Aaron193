@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aaron
 
-I'm a CSE major concentrating in cybersecurity with a minor in mathematics and analytics.
+I'm a CSE major concentrating in cybersecurity with a minor in mathematics and analytics.  
 I’m interested in systems programming, multiplayer game development, compilers, and full-stack engineering.
 
 **Portfolio:** https://aaron193.github.io/portfolio/
