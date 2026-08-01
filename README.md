@@ -6,6 +6,7 @@ I’m interested in systems programming, multiplayer game development, compilers
 **Portfolio:** https://aaron193.github.io/portfolio/
 
 ### What I'm Working On
+- **[Mog](https://github.com/moglang/mog)** programming language
 - **[huskyloop.com](https://huskyloop.com):** student marketplace platform  
 - **C++ multiplayer game:** [github.com/Aaron193/cpp-server](https://github.com/Aaron193/cpp-server)
 
