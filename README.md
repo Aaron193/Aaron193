@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Aaron
 
-I'm a Computer Science & Engineering student at the University of Connecticut, concentrating in cybersecurity and minoring in both mathematics and analytics.  
-I’m interested in systems programming, multiplayer game development, compilers, and full-stack engineering.
+I'm a Computer Science & Engineering student at the University of Connecticut, concentrating in cybersecurity and minoring in both mathematics and analytics. I previously interned at IBM HashiCorp, working on [Vault](https://developer.hashicorp.com/vault).
 
 **Portfolio:** https://aaron193.github.io/portfolio/
 
