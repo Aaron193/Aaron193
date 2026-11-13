@@ -6,7 +6,6 @@ I'm a Computer Science & Engineering student at the University of Connecticut, c
 
 ### What I'm Working On
 - **[Kelvra](https://github.com/kelvralang/kelvra)** programming language
-- **[huskyloop.com](https://huskyloop.com):** student marketplace platform  
 - **C++ multiplayer game:** [github.com/Aaron193/cpp-server](https://github.com/Aaron193/cpp-server)
 
 **Contact:** aaron.mark@uconn.edu
