@@ -6,6 +6,7 @@ I'm a Computer Science & Engineering student at the University of Connecticut, c
 
 ### What I'm Working On
 - **[Kelvra](https://github.com/kelvralang/kelvra)** programming language
+- **[ROSSA](https://rossa.uchc.edu/)** (Rodent Open Science Skeletal Archive) development team at [UConn i3](https://i3.uconn.edu/)
 - **C++ multiplayer game:** [github.com/Aaron193/cpp-server](https://github.com/Aaron193/cpp-server)
 
 **Contact:** aaron.mark@uconn.edu
